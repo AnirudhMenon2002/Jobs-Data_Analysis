@@ -1,5 +1,5 @@
 /*
-Skills required for top paying Data Analyst Jobs
+Skills required for top paying Data Engineer Jobs
 Tasks:
 -Making use of the queries to find top paying jobs
 -Adding specific skills required for these roles
