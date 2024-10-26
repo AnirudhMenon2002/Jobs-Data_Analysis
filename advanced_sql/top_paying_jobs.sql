@@ -1,8 +1,8 @@
 /*
 Tasks:
--To identify top 10 highest paying Data Analyst roles available remotely
+-To identify top 10 highest paying Data Engineer roles available
 -Focus on job postings with specified salaries.(no null values)
--Offering insights into top paying opportunties for Data Analysts
+-Offering insights into top paying opportunties for Data Engineer
 */
 
 SELECT
